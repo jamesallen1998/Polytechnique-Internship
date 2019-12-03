@@ -2,8 +2,8 @@
 James Allen, 2019
 
 Code Credit (Functions):\
-Olivier Gougeon 2019\
-Leandro Lustosa 2017
+Olivier Gougeon, 2019\
+Leandro Lustosa, 2017
 
 This repository contains both the MATLAB code and report for my work on the development on the MAVion convertible drone and Crazyflie swarm drones. 
 
